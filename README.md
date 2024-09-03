@@ -1,6 +1,4 @@
-# Hi 👋,
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=1000&color=3569A9&width=509&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans+&weight=700&size=28&pause=1000&color=376BABE1&width=509&lines=Hi%2C+Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
 I'm Galina, a frontend developer passionate about creating functional web applications. My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
 
