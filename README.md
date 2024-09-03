@@ -40,4 +40,4 @@ I'm Galina, a frontend developer passionate about creating functional web applic
 
 ---
 
-Thank you for visiting my account! Have a great day! 😊
+Thank you for visiting my profile! Have a great day! 😊
