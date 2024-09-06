@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans+&weight=700&size=28&pause=1000&color=376BABE1&width=509&lines=Hi%2C+Welcome+to+my+Github+page)](https://git.io/typing-svg)
 
-I'm Galina, a frontend developer passionate about creating functional web applications. My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Galina</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans+&weight=700&size=28&pause=1000&color=376BABE1&width=509&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+<br>
+a frontend developer passionate about creating functional web applications. My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
 
 ## 🛠️ Technologies
 
@@ -15,13 +18,6 @@ I'm Galina, a frontend developer passionate about creating functional web applic
 ---
 
 <p align="justify">
-  <a href="https://github.com/galagrin/galagrin/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=galagrin&count_private=true&show_icons=true&custom_title=Github%20Status"
-      alt="galagrin's GitHub stats"
-    />
-  </a>
    <a href="https://github.com/galagrin/galagring/">
     <img
       height="150"
