@@ -3,7 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans+&weight=700&size=28&pause=1000&color=376BABE1&width=509&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 <br>
-a frontend developer passionate about creating functional web applications. My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
+A frontend developer passionate about creating functional web applications.<br> 
+My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
 
 ## 🛠️ Technologies
 
@@ -32,9 +33,9 @@ a frontend developer passionate about creating functional web applications. My g
 
 ## 📫 Contacts
 
--   [My Telegram](https://t.me/gala_grin)
--   [My Email](mailto:ваш.galagrinko@yandex.ru)
+Feel free to reach out to me through:
 
----
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gala_grin)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш.galagrinko@yandex.ru)
 
 Thank you for visiting my profile! Have a great day! 😊
