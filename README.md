@@ -36,6 +36,6 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
 Feel free to reach out to me through:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gala_grin)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш.galagrinko@yandex.ru)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:galagrinko@yandex.ru)
 
 Thank you for visiting my profile! Have a great day! 😊
