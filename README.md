@@ -30,6 +30,10 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" height="30" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="30" alt="vscode logo" />
+  <img width="12" />
+  
 </div>
 
 
