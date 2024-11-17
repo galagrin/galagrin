@@ -1,14 +1,13 @@
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Galina</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans+&weight=700&size=28&pause=1000&color=376BABE1&width=509&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 <br>
 A frontend developer passionate about creating functional web applications.<br> 
 My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
 
 ## 🛠️ Technologies
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30" alt="css3 logo" />
@@ -36,18 +35,21 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
   
 </div>
 
-
-
 <br/>
-<p align="left">
+
+<div align="left">
    <a href="https://github.com/galagrin/galagring/">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=galagrin&layout=compact&langs_count=6"
       alt="galagrin's top langs stats"
     />
-  </a>  
-</p>
+  </a> 
+  <img height="150" 
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV2c3l3ZXl5NjFlOHBwdWhnbDJ4MW5zeWF2cjVwOXJsaDRxZWFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+      alt="gif with coding woman"/>
+
+</div>
 
 
 ## 📫 Contacts
