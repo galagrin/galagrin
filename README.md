@@ -17,6 +17,10 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
   <img width="12" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="30" alt="react logo" />
   <img width="12" />
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white" height="30" alt="nodejs logo" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" height="30" alt="vite logo" />
@@ -31,6 +35,7 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
   <img width="12" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="30" alt="vscode logo" />
   <img width="12" />
+
   
 </div>
 
