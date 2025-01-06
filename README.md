@@ -17,6 +17,8 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
   <img width="12" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="30" alt="react logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" height="30" alt="react logo"/>
+  <img width="12" />
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" height="30" alt="vscode logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white" height="30" alt="nodejs logo" />
