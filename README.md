@@ -47,7 +47,7 @@ My goal is to build user-friendly and intuitive interfaces that make users' live
    <a href="https://github.com/galagrin/galagring/">
     <img
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=galagrin&layout=compact&langs_count=6"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=galagrin&layout=compact&langs_count=5"
       alt="galagrin's top langs stats"
     />
   </a> 
