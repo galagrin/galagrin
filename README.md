@@ -1,8 +1,6 @@
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Galina</h1>
 
-A frontend developer passionate about creating functional web applications.<br> 
-My goal is to build user-friendly and intuitive interfaces that make users' lives easier.
 
 ## 🛠️ Technologies
 
