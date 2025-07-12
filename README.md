@@ -49,6 +49,9 @@
 
 </div>
 
+<img src="https://www.codewars.com/users/gala_grin/badges/small"/>
+ 
+
 
 ## 📫 Contacts
 
