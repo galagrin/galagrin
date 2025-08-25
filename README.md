@@ -25,16 +25,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" height="30" alt="vite logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt="git logo" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30" alt="docker logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" height="30" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="30" alt="vscode logo" />
-  <img width="12" />
+  <img src="https://img.shields.io/badge/-Zustand-007acc?style=flat&logo=react&logoColor=white" height="30" alt="zustand logo" />
+
+
 
   
 </div>
